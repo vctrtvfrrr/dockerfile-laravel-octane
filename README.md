@@ -1,2 +1,3 @@
 # dockerfile-laravel-octane
-Dockerfile for Laravel Octane
+
+Dockerfile for Laravel Octane based on Laravel Sail.
